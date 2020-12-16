@@ -1,5 +1,5 @@
 # Crack it! - Integers Solutions
-This is the webpage with explanations for all the answers of [Crack it! - Integers](https://theawesomecoder05.github.io). If you did not understand any of the answers, you are at the right place! Thanks to [GitHub](https://www.github.com), [GitHub Pages](https://pages.github.com), [Atom](https://www.atom.io) and [Git Bash](https://www.git-scm.com) for providing resources for this website.
+This is where you can find explanations for all the answers of [Crack it! - Integers](https://theawesomecoder05.github.io). If you did not understand any of the answers, you are at the right place! Thanks to [GitHub](https://www.github.com), [GitHub Pages](https://pages.github.com), [Atom](https://www.atom.io) and [Git Bash](https://www.git-scm.com) for providing resources for this website.
 <!--To insert a hyperlink in MARKDOWN, put the word that you want to be in the place of the hyperlink in square brackets[] and the link it should go to in parenthesis()-->
 ## John went for shopping.
 Q: John went for shopping with ₹500 and bought the following:
