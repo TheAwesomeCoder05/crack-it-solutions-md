@@ -45,7 +45,6 @@ _17.51 - (-78) = 17.51 + 78 = 95.51_
 Q: Sophia is a microbiologist. She noticed that Bacteria A needs an optimum temperature of -25ºC to survive. Bacteria B needs -61ºC to survive. Whereas, Bacteria C needs 3/4th the temperature of the difference between the temperatures of Bacteria B and A. So, what is the optimal temperature that Bacteria C needs to survive?
 
 ## Answer:
-<br>
 ### Step 1:
 Firstly find the difference between the temperatures required by Bacteria A and B to survive.
 <br>
@@ -65,7 +64,6 @@ Q: At an excavation site, 2 meters can be dug in a minute. Three drillers with t
 dig on the same spot. After 10 mins, one of the drillers stopped working. If there was a fossil 180 meters below the land, how much time would it take to be found?
 
 ## Answer:
-<br>
 ### Step 1:
 First, let's find out how many meters of the ground was dug in 10 mins by three drillers.
 <br>
@@ -100,14 +98,12 @@ Q: When you subtract a negative number from any number the answer should always 
 <br>
 
 ## Answer:
-<br>
 **Not always. This is only true if the absolute value of the negative number being subtracted is greater than the absolute value of the other number.**
 
 ## Fill in the blank
 Q: -159 - ___ = 99
 
 ## Answer:
-<br>
 ### Step 1:
 Let's solve this problem like an **_Algebraic Equation_**. We can denote the number we need to find as a variable 'x'.
 <!--Set var = x-->
